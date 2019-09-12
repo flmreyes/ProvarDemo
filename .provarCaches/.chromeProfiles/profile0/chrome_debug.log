@@ -1,0 +1,10 @@
+[11592:18168:0912/092427.900:WARNING:chrome_command_line_pref_store.cc(117)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[11592:18168:0912/092427.928:WARNING:chrome_command_line_pref_store.cc(117)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[11592:18168:0912/092428.086:WARNING:chrome_command_line_pref_store.cc(117)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[11592:23176:0912/092428.931:WARNING:leveldb_database.cc(106)] Unable to open C:\Users\francis.l.m.reyes\Documents\Git\ProvarDemo\.provarCaches\.chromeProfiles\profile0\Default\shared_proto_db: Invalid argument: C:\Users\francis.l.m.reyes\Documents\Git\ProvarDemo\.provarCaches\.chromeProfiles\profile0\Default\shared_proto_db: does not exist (create_if_missing is false)
+[11592:18168:0912/092444.192:INFO:CONSOLE(32)] "[object Object]", source: https://ips-provar.lightning.force.com/libraries/instrumentation/beaconLib/BeaconLibrary.js (32)
+[11592:18168:0912/092451.484:INFO:CONSOLE(32)] "[object Object]", source: https://ips-provar.lightning.force.com/libraries/instrumentation/beaconLib/BeaconLibrary.js (32)
+[11592:18168:0912/092509.308:INFO:CONSOLE(32)] "[object Object]", source: https://ips-provar.lightning.force.com/libraries/instrumentation/beaconLib/BeaconLibrary.js (32)
+[11592:18168:0912/092514.212:INFO:CONSOLE(2)] "<lightning-icon> Invalid icon name utility:", source: https://ips-provar.lightning.force.com/components/lightning/icon.js (2)
+[11592:18168:0912/092520.408:INFO:CONSOLE(2532)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery.min.772fb04d4ce536dfb06c17e789ad4dbd.js (2532)
+[11592:18168:0912/092520.438:INFO:CONSOLE(662)] "getJSON Failed", source: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-www/clientlibs_sfdc_forms.min.aec6780bb97abdc14eee1670299312ce.js (662)

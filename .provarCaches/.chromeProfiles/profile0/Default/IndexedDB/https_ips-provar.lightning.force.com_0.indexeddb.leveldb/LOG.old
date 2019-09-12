@@ -1,0 +1,6 @@
+2019/09/11-16:09:37.183 1d78 Reusing MANIFEST C:\Users\francis.l.m.reyes\Documents\Git\ProvarDemo\.provarCaches\.chromeProfiles\profile0\Default\IndexedDB\https_ips-provar.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/11-16:09:37.187 1d78 Recovering log #8
+2019/09/11-16:09:37.207 1d78 Reusing old log C:\Users\francis.l.m.reyes\Documents\Git\ProvarDemo\.provarCaches\.chromeProfiles\profile0\Default\IndexedDB\https_ips-provar.lightning.force.com_0.indexeddb.leveldb/000008.log 
+2019/09/11-16:09:40.860 5144 Level-0 table #12: started
+2019/09/11-16:09:40.922 5144 Level-0 table #12: 4164595 bytes OK
+2019/09/11-16:09:40.931 5144 Delete type=0 #8
